@@ -12,8 +12,6 @@
 - just a text about something awesome.
 - just a text about something awesome.
 - just a text about something awesome.
-- just a text about something awesome.
-- just a text about something awesome.
 
 1. List
 2. List 2
@@ -27,4 +25,8 @@ this text will be _bold_ //one \* for italic
 this text will be **bold** // two \*\* for bold
 highlight with backticks `JS`
 
-:relived:
+- just a text about something awesome.
+- just a text about something awesome.
+
+:relieved:
+:fox_face:
